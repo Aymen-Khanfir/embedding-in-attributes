@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
+import Headings from './components/Head';
 
 function App() {
   return (
-    <p>
-      Cleanedup React App
-    </p>
+    <Headings />
   );
 }
 
